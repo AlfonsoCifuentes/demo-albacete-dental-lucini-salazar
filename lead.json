@@ -8,5 +8,11 @@
   "address": "Avenida de la Estaci&oacute;n n&ordm; 5 Bajo, 02001 Albacete",
   "source_url": "https://clinicadentallucinidesalazar.es/",
   "opportunity": "Web activa con copyright 2015, noticias antiguas y contenido cl&iacute;nico interesante que necesita orden y conversi&oacute;n.",
-  "outreach_status": "demo_created_not_emailed"
+  "outreach_status": "queued_pending",
+  "demo_url": "https://demo-albacete-dental-lucini-salazar.vercel.app",
+  "github_url": "https://github.com/AlfonsoCifuentes/demo-albacete-dental-lucini-salazar",
+  "outreach_queue_id": "hermes-webdemo-20260615-005",
+  "outreach_version": "hermes-prepared-custom-v1-20260615",
+  "outreach_contact_type": "email público de la clínica; no localizado CEO/RRHH público",
+  "proposed_price": "640 EUR"
 }
