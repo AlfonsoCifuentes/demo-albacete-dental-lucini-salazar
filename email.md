@@ -1,26 +1,23 @@
 # Email draft - Lucini de Salazar
 
 - To: lucinidesalazar@gmail.com
-- Contact type: email público de la clínica; no localizado CEO/RRHH público
-- Subject: Lucini de Salazar: demo para modernizar la web de 2015
+- Subject: Lucini de Salazar: propuesta web para presentar mejor las dos clínicas
 - Proposed price: 640 EUR
 - Demo: https://demo-albacete-dental-lucini-salazar.vercel.app
 - Source: https://clinicadentallucinidesalazar.es/
 
 Hola,
 
-He revisado la web de Lucini de Salazar y he preparado una demo de rediseño:
+He preparado una propuesta visual para Lucini de Salazar:
 https://demo-albacete-dental-lucini-salazar.vercel.app
 
-El punto débil es bastante visible: la web transmite actividad de 2015, con noticias antiguas y una estructura que no aprovecha bien las dos sedes de Albacete y La Roda. Eso puede hacer que un paciente nuevo perciba la clínica como menos actual, aunque tengáis servicios e innovación propia como el Top-Stop System.
+La página está planteada como una web final: dos sedes claras, tratamientos dentales, tecnología, cita y una presentación más actual del equipo y de servicios como ortodoncia, implantes y periodoncia.
 
-La demo separa sedes, horarios, tratamientos y cita, y presenta ortodoncia, implantes, periodoncia y peritajes con una imagen más limpia y actual.
+La web actual puede aprovechar mejor la existencia de las dos clínicas y la información clínica disponible. Ordenar sedes, horarios y tratamientos facilita que el paciente elija dónde acudir y pida cita sin dudas.
 
-Lo dejaría publicado por 640 EUR, pago único, incluyendo versión móvil, traspaso de contenido, contacto por sede y formulario de cita.
+Presupuesto cerrado: 640 EUR, pago único. Incluye rediseño responsive, traspaso de contenido, estructura por sede, formulario de cita y publicación.
 
-Si os interesa, lo revisamos en 10 minutos.
-
-Si no es el momento o preferís que no vuelva a escribir, respondédmelo y no os contacto de nuevo.
+Si os interesa, puedo enseñaros la propuesta en una llamada breve.
 
 Un saludo,
 Alfonso Cifuentes
